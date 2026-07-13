@@ -1,0 +1,23 @@
+Hermes Automation Architecture
+
+Customer
+
+↓
+
+Payhip
+
+↓
+
+Webhook Trigger
+
+↓
+
+Make Automation
+
+↓
+
+Telegram Bot       Notion Database
+
+Customer           Order Records
+
+Powered by Telegram + Make + Notion + Payhip
