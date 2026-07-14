@@ -4,7 +4,9 @@
 Automation workflows and examples for solo creators and digital nomads.
 
 Hermes explores how independent creators can build a lightweight business operating system using automation tools.
+## Architecture Overview
 
+![Hermes Automation Architecture](diagrams/hermes-architecture.png)
 ## Why Hermes?
 
 Running a digital business usually requires managing many disconnected tools:
@@ -71,6 +73,35 @@ Building practical automation systems for:
 - Solo entrepreneurs
 - Digital nomads
 
+
+## Example Workflows
+
+### 1. Telegram Order Notification
+
+A customer purchases a digital product:
+
+Payhip  
+↓  
+Webhook Trigger  
+↓  
+Make Automation  
+↓  
+Telegram Bot Notification  
+↓  
+Notion Database Record
+
+
+### 2. Creator CRM Automation
+
+New lead collected
+
+↓
+
+Notion CRM Database
+
+↓
+
+Follow-up workflow triggered
 
 ## Status
 
