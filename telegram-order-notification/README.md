@@ -5,7 +5,9 @@
 
 Automatically notify customers after a digital product purchase.
 
-This workflow connects:
+This workflow demonstrates how Hermes connects payment, automation, messaging, and database systems into a lightweight digital business workflow.
+
+Built with:
 
 - Payhip
 - Make Automation
@@ -13,97 +15,53 @@ This workflow connects:
 - Notion Database
 
 
+---
+
 ## Workflow
 
 
-Customer Purchase
+Customer purchases a digital product
 
 ↓
 
-Payhip Payment Received
+Payhip payment received
 
 ↓
 
-Webhook Trigger
+Webhook trigger
 
 ↓
 
-Make Automation
+Make Automation workflow runs
 
 ↓
 
-Telegram Customer Notification
+Customer receives Telegram notification
 
 +
 
-Notion Order Record
+Order information is stored in Notion
 
+
+
+---
 
 ## Architecture
 
+
+```text
 Payhip
-|
-|
-Webhook
-|
-|
+   |
+   v
+Webhook Trigger
+   |
+   v
 Make Automation
-|
-|-------- Telegram Bot
-|
-|-------- Notion Database
-
-
-
-## Tools Used
-
-
-| Tool | Purpose |
-|---|---|
-| Payhip | Payment processing |
-| Make | Workflow automation |
-| Telegram Bot | Customer notification |
-| Notion | Order database |
-
-
-
-## Example Use Case
-
-
-A customer purchases a digital product.
-
-The system automatically:
-
-1. Receives payment confirmation
-2. Triggers automation workflow
-3. Sends Telegram notification
-4. Records order information in Notion
-
-
-
-## Benefits
-
-
-- No manual delivery
-- Faster customer response
-- Centralized order tracking
-- Lightweight automation stack
-
-
-
-## Setup
-
-
-1. Create Payhip product
-2. Configure webhook trigger
-3. Import Make scenario
-4. Connect Telegram Bot
-5. Connect Notion database
-
-
-
-## Status
-
-
-Example workflow for Hermes automation ecosystem.
+   |
+   +----------------+
+   |                |
+   v                v
+Telegram Bot     Notion Database
+(Customer        (Order Records)
+Notification)
 
