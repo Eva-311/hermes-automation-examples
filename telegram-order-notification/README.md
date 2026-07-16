@@ -49,19 +49,37 @@ Order information is stored in Notion
 ## Architecture
 
 
-```text
-Payhip
-   |
-   v
-Webhook Trigger
-   |
-   v
-Make Automation
-   |
-   +----------------+
-   |                |
-   v                v
-Telegram Bot     Notion Database
-(Customer        (Order Records)
-Notification)
+## Architecture
 
+![Hermes Automation Architecture](../diagrams/hermes-architecture.png)
+
+## Example Scenario
+
+A customer purchases a digital product.
+
+The automation system:
+
+1. Receives payment confirmation from Payhip
+2. Triggers the Make workflow
+3. Sends a Telegram notification
+4. Records customer information in Notion
+
+The entire delivery process runs automatically without manual operation.
+
+## Setup
+
+### Requirements
+
+- Payhip account
+- Make account
+- Telegram Bot
+- Notion database
+
+
+### Configuration
+
+1. Create a Payhip product
+2. Configure webhook trigger
+3. Import Make automation scenario
+4. Connect Telegram Bot
+5. Connect Notion database
