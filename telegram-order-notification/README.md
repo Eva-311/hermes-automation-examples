@@ -48,9 +48,6 @@ Order information is stored in Notion
 
 ## Architecture
 
-
-## Architecture
-
 ![Hermes Automation Architecture](../diagrams/hermes-architecture.png)
 
 ## Example Scenario
