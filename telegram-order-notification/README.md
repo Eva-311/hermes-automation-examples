@@ -1,11 +1,15 @@
-# Telegram Order Notification Workflow
+Telegram Order Notification Workflow
+
+An automated customer delivery workflow for digital product businesses using Payhip, Make, Telegram, and Notion.
 
 
 ## Overview
 
-Automatically notify customers after a digital product purchase.
+Automatically deliver customer notifications after a digital product purchase.
 
-This workflow demonstrates how Hermes connects payment, automation, messaging, and database systems into a lightweight digital business workflow.
+This workflow demonstrates how Hermes connects payment, automation, messaging, and database systems into a lightweight digital business operating system.
+
+Instead of manually handling customer delivery, creators can automate the entire process from payment confirmation to customer notification and order tracking.
 
 Built with:
 
@@ -14,41 +18,33 @@ Built with:
 - Telegram Bot
 - Notion Database
 
+## Tools Used
 
+| Tool | Purpose |
+|---|---|
+| Payhip | Payment processing |
+| Make | Workflow automation |
+| Telegram Bot | Customer notification |
+| Notion | Order management |
 ---
 
 ## Workflow
 
+1. Customer purchases a digital product
 
-Customer purchases a digital product
+2. Payhip confirms payment
 
-↓
+3. Webhook receives order event
 
-Payhip payment received
+4. Make Automation processes workflow
 
-↓
+5. Telegram sends customer notification
 
-Webhook trigger
-
-↓
-
-Make Automation workflow runs
-
-↓
-
-Customer receives Telegram notification
-
-+
-
-Order information is stored in Notion
-
-
-
----
-
+6. Order information is stored in Notion
 ## Architecture
 
 ![Hermes Automation Architecture](../diagrams/hermes-architecture.png)
+The architecture connects payment, automation, communication, and database layers into one automated workflow.
 
 ## Example Scenario
 
@@ -65,13 +61,12 @@ The entire delivery process runs automatically without manual operation.
 
 ## Setup
 
-### Requirements
+Requirements
 
-- Payhip account
-- Make account
-- Telegram Bot
-- Notion database
-
+- Payhip account for digital product sales
+- Make account for workflow automation
+- Telegram Bot for customer messaging
+- Notion database for order management
 
 ### Configuration
 
@@ -80,3 +75,22 @@ The entire delivery process runs automatically without manual operation.
 3. Import Make automation scenario
 4. Connect Telegram Bot
 5. Connect Notion database
+
+## Status
+
+Active example workflow for the Hermes automation ecosystem.
+
+More automation templates and integrations will be added in future updates.
+
+## Related Project
+
+Hermes Automation Examples
+
+A collection of automation workflows for solo creators and digital entrepreneurs.
+
+Built with:
+
+- Payhip
+- Telegram
+- Make
+- Notion
