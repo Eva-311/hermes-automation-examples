@@ -1,5 +1,11 @@
 # Hermes Automation Examples
 
+![Hermes Automation](assets/images/hermes-banner.png)
+
+Build automated digital businesses with:
+
+Payhip + Make + Telegram + Notion
+
 
 Open-source automation workflows for creators building digital products and lightweight online businesses.
 
