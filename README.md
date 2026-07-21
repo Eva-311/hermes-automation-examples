@@ -1,148 +1,113 @@
 # Hermes Automation Examples
 
-![Hermes Automation](assets/images/hermes-banner.png)
+![Hermes Automation](assets/images/hermes-automation-banner.png)
+
 
 Build automated digital businesses with:
 
 Payhip + Make + Telegram + Notion
 
 
-Open-source automation workflows for creators building digital products and lightweight online businesses.
+## 🚀 What is Hermes?
 
-Hermes demonstrates how independent creators can connect payments, automation, messaging, and databases into a lightweight digital business operating system.
-
-
-## Architecture Overview
+Hermes is an open-source collection of automation workflows
+for creators, indie hackers and digital entrepreneurs.
 
 
+It helps automate:
 
-Hermes connects payment, automation, messaging, and database systems into a simple creator business infrastructure.
-
-![Hermes Automation Architecture](diagrams/hermes-architecture.png)
-
-
-## Why Hermes?
-
-
-Running a digital product business usually requires managing multiple disconnected tools:
-
-- Payment platforms
-- Customer management
-- Notifications
-- Databases
-- Automation workflows
+- Digital product delivery
+- Customer notifications
+- Order tracking
+- CRM management
 
 
-Hermes connects these tools into automated workflows that reduce manual operations.
+---
+
+## 🏗 Architecture
 
 
-## Core Stack
+![Architecture]
 
 
-Hermes is built with:
-
-- Payhip — Digital product payments
-- Make — Workflow automation engine
-- Telegram Bot — Customer communication
-- Notion Database — Business data management
-- AI Tools — Productivity enhancement
-
-## Example Workflows
-
-## Getting Started
-
-
-1. Clone this repository
-
-2. Choose a workflow example
-
-3. Import automation templates
-
-4. Connect your own Payhip, Telegram, Make, and Notion accounts
-
-
-
-### 1. Telegram Order Notification
-
-
-Automatically notify customers after a digital product purchase.
-
-
-Workflow:
-
-Customer Purchase
-
+Customer
 ↓
-
-Payhip Payment Received
-
+Payhip
 ↓
-
-Webhook Trigger
-
+Make
 ↓
-
-Make Automation
-
-↓
-
-Telegram Customer Notification
-
-↓
-
-Order Record Stored in Notion
+Telegram + Notion
 
 
+---
 
-Details:
-
-Explore the workflow:
-
-➡️ [Telegram Order Notification Workflow](telegram-order-notification)
-
-## Repository Structure
+## ✨ Features
 
 
-hermes-automation-examples/
+### Digital Product Delivery
 
-├── workflows/
-│   └── make-blueprints/
-│
-├── diagrams/
-│   └── hermes-architecture.png
-│
-├── telegram-order-notification/
-│   └── README.md
-│
-└── README.md
+Automatically deliver products after payment.
 
 
+### Telegram Customer Automation
 
-## Project Goals
-
-
-Hermes explores how creators can build:
-
-- Automated digital product delivery
-- Lightweight customer systems
-- No-code business infrastructure
-- Repeatable creator workflows
+Send notifications and interact with customers.
 
 
-## Related Product
+### Notion Business Dashboard
+
+Track orders, customers and revenue.
 
 
-Hermes is part of a broader Digital Product OS ecosystem designed for creators and digital nomads.
+---
+
+## 📂 Examples
 
 
-Powered by:
+### Telegram Order Notification
 
-Payhip + Telegram + Make + Notion
-
-
-## Status
+Payhip → Make → Telegram
 
 
-🚧 Active development.
+[View Example]
 
-New automation workflows and examples will be added continuously.
+
+---
+
+## 🛠 Tech Stack
+
+- Payhip
+- Make
+- Telegram Bot
+- Notion API
+
+
+---
+
+## 📖 Getting Started
+
+Clone this repository...
+
+
+
+
+## 🚀 Full Digital Product OS
+
+Need a complete system?
+
+Get:
+
+- Notion Dashboard
+- Make Blueprints
+- Telegram Templates
+- Setup Guide
+
+
+[[Payhip Link](https://payhip.com/EvasDigitalToolkit)]
+
+
+---
+
+## License
+
+MIT
