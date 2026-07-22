@@ -66,11 +66,16 @@ Track orders, customers and revenue.
 
 ### Telegram Order Notification
 
-Payhip → Make → Telegram
+Receive instant Telegram notifications after a new product purchase.
+
+[View Example](workflows/telegram-order-notification)
 
 
-[View Example]
+### Payhip Digital Delivery
 
+Automatically deliver digital products after successful payment.
+
+[View Example](workflows/payhip-digital-delivery)
 
 ---
 
