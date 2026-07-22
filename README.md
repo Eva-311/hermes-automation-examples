@@ -93,15 +93,17 @@ Clone this repository...
 
 ## 🚀 Full Digital Product OS
 
-Need a complete system?
+This repository contains individual automation examples.
 
-Get:
+The complete system includes:
 
-- Notion Dashboard
-- Make Blueprints
-- Telegram Templates
-- Setup Guide
+- Notion Business Dashboard
+- Make Automation Blueprints
+- Telegram Bot Templates
+- Setup Guides
 
+
+Get the complete Digital Product OS:
 
 [[Payhip Link](https://payhip.com/EvasDigitalToolkit)]
 
