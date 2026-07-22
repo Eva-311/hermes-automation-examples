@@ -10,24 +10,27 @@ Instead of manually sending files to customers, the system automatically process
 
 ## Workflow
 
-Customer Purchase
+Customer completes payment
 
 ↓
 
-Payhip
+Payhip checkout
 
 ↓
 
-Webhook
+Webhook trigger
 
 ↓
 
-Make Automation
+Make automation
 
 ↓
 
-Telegram Delivery
+Telegram delivery message
 
+↓
+
+Customer receives product access
 
 ## Tools Used
 
