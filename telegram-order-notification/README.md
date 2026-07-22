@@ -82,6 +82,8 @@ Requirements
 
 ## Preview
 
+Workflow preview will be added soon.
+
 Workflow example:
 
 ![Telegram Order Workflow](../../assets/images/telegram-order-notification.png)
@@ -97,7 +99,7 @@ More automation templates and integrations will be added in future updates.
 
 This workflow is part of Hermes Automation Examples.
 
-The complete Digital Product OS includes:
+For a complete digital product automation system:
 
 - Automated product delivery
 - Notion business dashboard
