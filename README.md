@@ -21,7 +21,11 @@ It helps automate:
 - Order tracking
 - CRM management
 
+## Preview
 
+Examples of Hermes automation workflows:
+
+![Hermes Workflow Preview](assets/images/hermes-workflow-previews.png)
 ---
 
 ## 🏗 Architecture
