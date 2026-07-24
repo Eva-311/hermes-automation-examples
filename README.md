@@ -205,3 +205,9 @@ MIT
 
 If Hermes helps you build automation workflows,
 consider giving the project a ⭐ on GitHub.
+
+## Releases
+
+Latest release:
+
+[Hermes Automation Examples v0.1.0](../../releases/tag/v0.1.0)
