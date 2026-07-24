@@ -3,6 +3,9 @@
 ![Hermes Automation](assets/images/hermes-automation-banner.png)
 ## Open-source automation workflows for creators and indie hackers
 
+Build automated digital businesses with:
+
+**Payhip + Make + Telegram + Notion**
 
 ## Build automated digital businesses
 
@@ -36,6 +39,28 @@ Examples of automated workflows built with Hermes:
 - Customer automation
 
 ![Hermes Workflow Preview](assets/images/hermes-workflow-previews.png)
+
+ ## How It Works
+
+A typical Hermes workflow:
+
+Customer action
+
+↓
+
+Automation trigger
+
+↓
+
+Make workflow processing
+
+↓
+
+Telegram notification
+
+↓
+
+Notion record update
 ---
 
 ## 🏗 Architecture
@@ -59,16 +84,30 @@ Telegram + Notion
 
 ## 🚀 Automation Examples
 
-### Telegram Order Notification
-
+### 1. Telegram Order Notification
 Receive instant Telegram notifications when a new digital product order arrives.
 
+Automatically receive order notifications through Telegram.
+
+Use case:
+
+- Digital product sales
+- Customer alerts
+- Order tracking
+  
 [View Example](workflows/telegram-order-notification)
 
 
-### Payhip Digital Delivery
+### 2. Payhip Digital Delivery
 
-Automate digital product delivery after successful payment.
+Automate product delivery after successful payment.
+
+Use case:
+
+- File delivery
+- Customer onboarding
+- Digital products
+
 
 [View Example](workflows/payhip-digital-delivery)
 
@@ -112,6 +151,16 @@ Automatically deliver digital products after successful payment.
 
 ---
 
+## Project Status
+
+Current examples:
+
+✅ Telegram Order Notification
+
+✅ Payhip Digital Delivery
+
+More automation workflows will be added gradually.
+
 ## 🛠 Tech Stack
 
 - Payhip — Digital product sales
@@ -152,3 +201,7 @@ Get the complete Digital Product OS:
 
 MIT
 
+## Support
+
+If Hermes helps you build automation workflows,
+consider giving the project a ⭐ on GitHub.
