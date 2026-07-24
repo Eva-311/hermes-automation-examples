@@ -1,12 +1,18 @@
 # Hermes Automation Examples
 
 ![Hermes Automation](assets/images/hermes-automation-banner.png)
+## Open-source automation workflows for creators and indie hackers
 
 
-Build automated digital businesses with:
+## Build automated digital businesses
+
+Hermes is an automation framework for creators and indie hackers.
+
+Connect:
 
 Payhip + Make + Telegram + Notion
 
+to build automated digital product workflows.
 
 ## 🚀 What is Hermes?
 
@@ -23,7 +29,11 @@ It helps automate:
 
 ## Preview
 
-Examples of Hermes automation workflows:
+Examples of automated workflows built with Hermes:
+
+- Order notifications
+- Digital product delivery
+- Customer automation
 
 ![Hermes Workflow Preview](assets/images/hermes-workflow-previews.png)
 ---
@@ -33,6 +43,11 @@ Examples of Hermes automation workflows:
 
 ![Architecture]
 
+Architecture
+
+How It Works
+
+Automation Examples
 
 Customer
 ↓
@@ -42,6 +57,20 @@ Make
 ↓
 Telegram + Notion
 
+## 🚀 Automation Examples
+
+### Telegram Order Notification
+
+Receive instant Telegram notifications when a new digital product order arrives.
+
+[View Example](workflows/telegram-order-notification)
+
+
+### Payhip Digital Delivery
+
+Automate digital product delivery after successful payment.
+
+[View Example](workflows/payhip-digital-delivery)
 
 ---
 
@@ -70,7 +99,7 @@ Track orders, customers and revenue.
 
 ### Telegram Order Notification
 
-Receive instant Telegram notifications after a new product purchase.
+Automatically receive Telegram notifications when a customer purchases a digital product.
 
 [View Example](workflows/telegram-order-notification)
 
@@ -85,11 +114,11 @@ Automatically deliver digital products after successful payment.
 
 ## 🛠 Tech Stack
 
-- Payhip
-- Make
-- Telegram Bot
-- Notion API
-
+- Payhip — Digital product sales
+- Make — Automation engine
+- Telegram Bot — Customer notifications
+- Notion — Business dashboard
+- Webhooks — System connections
 
 ---
 
@@ -102,7 +131,7 @@ Clone this repository...
 
 ## 🚀 Full Digital Product OS
 
-This repository contains individual automation examples.
+Hermes Automation Examples are individual workflows from a complete digital product automation system.
 
 The complete system includes:
 
@@ -122,3 +151,4 @@ Get the complete Digital Product OS:
 ## License
 
 MIT
+
