@@ -43,6 +43,12 @@ This workflow automatically processes order events without manual checking.
 
 6. Order information is stored in Notion
 
+## Preview
+
+Telegram bot notification example:
+
+![Telegram Workflow Preview](../assets/images/telegram-preview.png)
+
 ## Architecture
 
 ![Hermes Automation Architecture](../diagrams/hermes-architecture.png)
