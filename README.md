@@ -286,7 +286,7 @@ Latest release:
 Product:https://payhip.com/EvasDigitalToolkit
 Payhip link
 
-Community:
+Community:https://www.indiehackers.com/Eva_NomadOS
 Indie Hackers
 
 Tutorial:https://dev.to/eva-nomados
