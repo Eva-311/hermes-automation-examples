@@ -1,34 +1,33 @@
 # Hermes Automation Examples
 
 ![Hermes Automation](assets/images/hermes-automation-banner.png)
-## Open-source automation workflows for creators and indie hackers
+
+Open-source automation workflows for creators and indie hackers.
 
 Build automated digital businesses with:
 
 **Payhip + Make + Telegram + Notion**
 
-## Build automated digital businesses
+---
 
-Hermes is an automation framework for creators and indie hackers.
+## Demo
 
-Connect:
+Watch the automation workflow demo:
 
-Payhip + Make + Telegram + Notion
+[▶ Watch Hermes Automation Demo](assets/videos/hermes-demo.mp4)
 
-to build automated digital product workflows.
+---
+## 🚀 What this project does
 
-## 🚀 What is Hermes?
-
-Hermes is an open-source collection of automation workflows
-for creators, indie hackers and digital entrepreneurs.
-
+Hermes Automation Examples provides reusable automation workflows for creators and indie hackers.
 
 It helps automate:
 
-- Digital product delivery
-- Customer notifications
-- Order tracking
-- CRM management
+
+- Digital product delivery automation
+- Telegram order notifications
+- Customer workflow automation
+- Notion-based business tracking
 
 ## Preview
 
