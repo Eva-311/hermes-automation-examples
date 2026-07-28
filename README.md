@@ -8,6 +8,7 @@ Build automated digital businesses with:
 
 **Payhip + Make + Telegram + Notion**
 
+Designed for creators who want to automate selling, delivery and customer management without building complex backend systems.
 ---
 
 ## Demo
@@ -17,7 +18,7 @@ Watch the automation workflow demo:
 [▶ Watch Hermes Automation Demo](assets/videos/hermes-demo.mp4)
 
 ---
-## 🚀 What this project does
+##  What this project does
 
 Hermes Automation Examples provides reusable automation workflows for creators and indie hackers.
 
@@ -29,15 +30,6 @@ It helps automate:
 - Customer workflow automation
 - Notion-based business tracking
 
-## Preview
-
-Examples of automated workflows built with Hermes:
-
-- Order notifications
-- Digital product delivery
-- Customer automation
-
-![Hermes Workflow Preview](assets/images/hermes-workflow-previews.png)
 
  ## How It Works
 
@@ -62,7 +54,7 @@ Telegram notification
 Notion record update
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 
 ![Architecture]
@@ -81,7 +73,7 @@ Make
 ↓
 Telegram + Notion
 
-## 🚀 Automation Examples
+##  Automation Examples
 
 ### 1. Telegram Order Notification
 Receive instant Telegram notifications when a new digital product order arrives.
@@ -112,7 +104,7 @@ Use case:
 
 ---
 
-## ✨ Features
+##  Features
 
 
 ### Digital Product Delivery
@@ -131,29 +123,37 @@ Track orders, customers and revenue.
 
 
 ---
+## Preview
 
-## 📂 Examples
+![Hermes Workflow Preview](assets/images/hermes-workflow-previews.png)
 
+Examples of automated workflows built with Hermes:
+
+- Order notifications
+- Digital product delivery
+- Customer automation
+
+
+
+
+## Workflow Examples
 
 ### Telegram Order Notification
 
-Automatically receive Telegram notifications when a customer purchases a digital product.
+Automatically receive and track customer orders through Telegram.
 
-[View Example](workflows/telegram-order-notification)
+Useful for creators who want instant order alerts without manually checking platforms.
+
+→ [View workflow](telegram-order-notification/README.md)
 
 
 ### Payhip Digital Delivery
 
-Automatically deliver digital products after successful payment.
+Automatically deliver digital products after successful Payhip payments.
 
-[View Example](workflows/payhip-digital-delivery)
+Useful for selling templates, guides, courses and other digital products.
 
-| Workflow | Description | Stack |
-|---|---|---|
-| Telegram Order Notification | Receive customer orders instantly | Telegram + Make + Notion |
-| Payhip Digital Delivery | Automate digital product delivery | Payhip + Make + Telegram |
-
-
+→ [View workflow](workflows/payhip-digital-delivery/README.md)
 ---
 
 ## Project Status
@@ -166,7 +166,7 @@ Current examples:
 
 More automation workflows will be added gradually.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Payhip — Digital product sales
 - Make — Automation engine
@@ -176,14 +176,14 @@ More automation workflows will be added gradually.
 
 ---
 
-## 📖 Getting Started
+##  Getting Started
 
 Clone this repository...
 
 
 
 
-## 🚀 Full Digital Product OS
+##  Full Digital Product OS
 
 Hermes Automation Examples are individual workflows from a complete digital product automation system.
 
@@ -217,7 +217,7 @@ Latest release:
 
 [Hermes Automation Examples v0.1.0](../../releases/tag/v0.1.0)
 
-## 🔗 Resources
+##  Resources
 
 Product:https://payhip.com/EvasDigitalToolkit
 Payhip link
