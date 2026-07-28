@@ -95,29 +95,43 @@ Notion
 
 ## Getting Started
 
-### Requirements
+Choose a workflow example and follow the setup guide.
 
+### 1. Select a workflow
+
+Available examples:
+
+- Telegram Order Notification
+- Payhip Digital Delivery
+
+
+### 2. Prepare required tools
+
+You need:
+
+- Payhip account
 - Make account
 - Telegram Bot
 - Notion workspace
-- Payhip account
 
 
-### Setup
+### 3. Configure automation
 
-1. Clone this repository
+Import the workflow blueprint.
 
-2. Import the Make blueprint
+Connect your accounts.
 
-3. Connect Telegram Bot
-
-4. Configure Notion database
-
-5. Test the workflow
+Customize the workflow for your business.
 
 
-Your automation workflow is ready.
-   
+### 4. Test the workflow
+
+Run a test transaction and verify:
+
+- Notification delivery
+- Data tracking
+- Customer workflow
+
 ##  Automation Examples
 
 ### 1. Telegram Order Notification
