@@ -149,6 +149,12 @@ Automatically deliver digital products after successful payment.
 
 [View Example](workflows/payhip-digital-delivery)
 
+| Workflow | Description | Stack |
+|---|---|---|
+| Telegram Order Notification | Receive customer orders instantly | Telegram + Make + Notion |
+| Payhip Digital Delivery | Automate digital product delivery | Payhip + Make + Telegram |
+
+
 ---
 
 ## Project Status
@@ -211,3 +217,14 @@ consider giving the project a ⭐ on GitHub.
 Latest release:
 
 [Hermes Automation Examples v0.1.0](../../releases/tag/v0.1.0)
+
+## 🔗 Resources
+
+Product:https://payhip.com/EvasDigitalToolkit
+Payhip link
+
+Community:
+Indie Hackers
+
+Tutorial:https://dev.to/eva-nomados
+Dev.to
