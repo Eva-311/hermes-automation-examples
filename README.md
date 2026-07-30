@@ -1,7 +1,6 @@
 # Hermes Automation Examples
 
 ![Hermes Automation](assets/images/hermes-automation-banner.png)
-
 Open-source automation workflows for creators and indie hackers.
 
 Build automated digital businesses with:
