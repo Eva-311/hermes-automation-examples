@@ -10,11 +10,21 @@ Build automated digital businesses with:
 Designed for creators who want to automate selling, delivery and customer management without building complex backend systems.
 ---
 
+# NomadOS
+
+Digital Product OS for creators and indie hackers.
+
+Automate your digital product business with:
+
+Payhip + Telegram + Make + Notion
+
+
 ## Demo
 
 Watch the automation workflow demo:
 
 [▶ Watch Hermes Automation Demo](assets/videos/hermes-demo.mp4)
+
 
 ---
 ##  What this project does
