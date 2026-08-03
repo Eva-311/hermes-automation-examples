@@ -189,8 +189,19 @@ Send notifications and interact with customers.
 
 Track orders, customers and revenue.
 
-
 ---
+
+## What's Included
+
+NomadOS includes:
+
+- Notion Business Dashboard
+- Make Automation Blueprints
+- Telegram Bot Templates
+- Setup Documentation
+- Lifetime Updates
+
+  
 ## Preview
 
 ![Hermes Workflow Preview](assets/images/hermes-workflow-previews.png)
