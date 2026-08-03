@@ -202,7 +202,12 @@ Examples of automated workflows built with Hermes:
 - Customer automation
 
 
+## Quick Start
 
+1. Duplicate Notion template
+2. Import Make blueprint
+3. Connect Telegram bot
+4. Configure Payhip webhook
 
 ## Workflow Examples
 
