@@ -1,6 +1,10 @@
 # Hermes Automation Examples
 
+![GitHub stars](https://img.shields.io/github/stars/Eva-311/hermes-automation-examples)
+![GitHub license](https://img.shields.io/github/license/Eva-311/hermes-automation-examples)
+![GitHub last commit](https://img.shields.io/github/last-commit/Eva-311/hermes-automation-examples)
 ![Hermes Automation](assets/images/hermes-automation-banner.png)
+
 Open-source automation workflows for creators and indie hackers building digital businesses.
 
 Automate payments, customer delivery, notifications and business tracking with Payhip, Make, Telegram and Notion.
