@@ -1,7 +1,9 @@
 # Hermes Automation Examples
 
 ![Hermes Automation](assets/images/hermes-automation-banner.png)
-Open-source automation workflows for creators and indie hackers.
+Open-source automation workflows for creators and indie hackers building digital businesses.
+
+Automate payments, customer delivery, notifications and business tracking with Payhip, Make, Telegram and Notion.
 
 Build automated digital businesses with:
 
@@ -25,8 +27,32 @@ Watch the automation workflow demo:
 
 [▶ Watch Hermes Automation Demo](assets/videos/hermes-demo.mp4)
 
+## Try Hermes
 
+Digital Product OS:
+[Product:https://payhip.com/EvasDigitalToolkit]
+
+
+GitHub Repository:
+(https://github.com/Eva-311/hermes-automation-examples)
 ---
+
+## Why this project exists
+
+Building a digital product business sounds simple:
+
+- Create a product
+- Add payment
+- Deliver files
+
+But automation becomes complicated when you need:
+
+- Customer notifications
+- Order tracking
+- Delivery automation
+- Business analytics
+
+
 ##  What this project does
 
 Hermes Automation Examples provides reusable automation workflows for creators and indie hackers.
