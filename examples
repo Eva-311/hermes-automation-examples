@@ -1,0 +1,51 @@
+# # Digital Product Business Automation Example
+
+
+## Problem
+
+Creators usually manage:
+
+- Payments
+- Customer delivery
+- Notifications
+- Order tracking
+- Customer management
+
+Many tasks are still handled manually, which becomes difficult as sales grow.
+
+
+## Solution
+
+This workflow connects:
+
+Payhip
+↓
+Make
+↓
+Telegram
+↓
+Notion
+
+
+The automation handles payment events, customer notifications and business tracking automatically.
+
+
+## Result
+
+Automatically:
+
+- deliver products
+- notify customers
+- record orders
+- track customers
+- maintain a simple creator CRM
+
+## Related Workflow
+
+Telegram Order Notification:
+ 
+→ `../../workflows/telegram-order-notification`
+
+Payhip Digital Delivery:
+
+→ `../../workflows/payhip-digital-delivery`
