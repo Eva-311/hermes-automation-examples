@@ -242,6 +242,18 @@ Examples of automated workflows built with Hermes:
 - Digital product delivery
 - Customer automation
 
+## Examples
+
+Real-world automation examples for creators and indie hackers.
+
+### Digital Product Business Automation
+
+Automate product delivery, customer notifications and order tracking.
+
+View example:
+
+→ [Digital Product Business Automation](examples/digital-product-business)
+
 
 ## Quick Start
 
