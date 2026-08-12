@@ -244,7 +244,7 @@ Examples of automated workflows built with Hermes:
 
 ## Examples
 
-Real-world automation examples for creators and indie hackers.
+Real automation scenarios for creators and indie hackers.
 
 ### Digital Product Business Automation
 
