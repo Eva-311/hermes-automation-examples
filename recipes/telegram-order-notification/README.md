@@ -129,3 +129,7 @@ Notes
 This recipe is an example workflow and should be adapted to your own Payhip, Make and Telegram configuration.
 
 Do not expose API keys, bot tokens, webhook secrets or customer information in your public repository.
+
+## Related resources
+
+- [Telegram Order Notification Workflow](../../telegram-order-notification/)
