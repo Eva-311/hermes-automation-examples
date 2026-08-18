@@ -1,20 +1,36 @@
-# Hermes Automation Examples
+# Hermes Digital Product Automation Library
 
 ![GitHub stars](https://img.shields.io/github/stars/Eva-311/hermes-automation-examples)
 ![GitHub license](https://img.shields.io/github/license/Eva-311/hermes-automation-examples)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Eva-311/hermes-automation-examples)
 ![Hermes Automation](assets/images/hermes-automation-banner.png)
 
-Open-source automation workflows for creators and indie hackers building digital businesses.
+> Open-source automation workflows and resources for creators, indie hackers, and digital product businesses.
 
-Automate payments, customer delivery, notifications and business tracking with Payhip, Make, Telegram and Notion.
+Build, learn, and reuse practical automation workflows for digital product operations.
 
-Build automated digital businesses with:
+Automate:
+
+- Payments
+- Customer delivery
+- Notifications
+- Customer tracking
+- Business workflows
+
+Built with:
 
 **Payhip + Make + Telegram + Notion**
 
-Designed for creators who want to automate selling, delivery and customer management without building complex backend systems.
+Designed for creators who want to automate digital product operations without building complex backend systems.
 ---
+
+## 🚀 Automation Library
+
+| Workflow | Tools | Use Case |
+|---|---|---|
+| Payhip Digital Delivery | Payhip + Make | Automatically deliver digital products |
+| Telegram Order Notification | Payhip + Make + Telegram | Receive order notifications |
+| Customer Tracking | Notion + Make | Track customers and orders |
 
 # NomadOS
 
