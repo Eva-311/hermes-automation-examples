@@ -32,6 +32,22 @@ Designed for creators who want to automate digital product operations without bu
 | Telegram Order Notification | Payhip + Make + Telegram | Receive order notifications |
 | Customer Tracking | Notion + Make | Track customers and orders |
 
+## Free Resources
+
+### Automation Templates
+
+- Payhip Digital Delivery
+- Telegram Order Notification
+- Notion Customer Tracker
+
+### Guides
+
+- How Payhip Webhooks Work
+- How to Connect Payhip with Make
+- How to Send Order Notifications to Telegram
+- How to Track Digital Product Customers in Notion
+
+  
 # NomadOS
 
 Digital Product OS for creators and indie hackers.
