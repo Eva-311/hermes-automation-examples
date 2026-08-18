@@ -47,7 +47,13 @@ Designed for creators who want to automate digital product operations without bu
 - How to Send Order Notifications to Telegram
 - How to Track Digital Product Customers in Notion
 
-  
+### 🧩 Automation Recipes
+
+Practical automation recipes for common digital product workflows.
+
+[Browse Automation Recipes](recipes/)  
+
+
 # NomadOS
 
 Digital Product OS for creators and indie hackers.
