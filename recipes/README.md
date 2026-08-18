@@ -2,101 +2,85 @@
 
 Practical automation recipes for digital product businesses.
 
-These recipes are designed for creators, solo founders and indie hackers who want to reduce repetitive manual work without building a complex backend.
+Each recipe focuses on one specific business workflow and can be adapted to your own setup.
 
 ## Available Recipes
 
-### 1. Automatic Digital Product Delivery
+### 1. Telegram Order Notification
 
-Automatically deliver digital products after a successful payment.
+Receive a Telegram notification whenever a new order is completed.
 
-**Use case**
+**Tools**
 
-A customer purchases a digital product and receives the product automatically.
+- Payhip
+- Make
+- Telegram
 
-**Workflow**
+**Use cases**
 
-Payhip → Make → Delivery
-
-**Best for**
-
-- Digital products
-- Templates
-- Guides
-- Courses
-- Downloads
-
-[View workflow](../workflows/)
-
----
-
-### 2. Telegram Order Notifications
-
-Receive instant Telegram notifications when a customer places an order.
-
-**Use case**
-
-Get notified about new orders without constantly checking your payment platform.
+- New order notifications
+- Customer activity alerts
+- Order monitoring
 
 **Workflow**
 
 Payhip → Make → Telegram
 
-**Best for**
-
-- Order notifications
-- Customer activity
-- Sales monitoring
-
-[View workflow](../telegram-order-notification/)
+[View Recipe](telegram-order-notification/README.md)
 
 ---
 
-### 3. Customer Tracking
+### 2. Payhip Digital Delivery
 
-Track customers and order activity in a simple database.
+Automatically deliver digital products after a successful payment.
 
-**Use case**
-
-Keep customer information and order activity organized without building a custom backend.
-
-**Workflow**
-
-Payhip → Make → Notion
-
-**Best for**
-
-- Customer tracking
-- Order records
-- Product management
-
-[View examples](../examples/)
-
----
-
-## More Recipes Coming
-
-This library will gradually expand with practical automation recipes for:
-
-- Customer onboarding
-- Email notifications
-- Content delivery
-- Sales tracking
-- Customer support
-- Product management
-- Business dashboards
-
----
-
-## Tools Used
+**Tools**
 
 - Payhip
 - Make
-- Telegram
-- Notion
+- Customer email
+
+**Use cases**
+
+- Digital product delivery
+- Payment confirmation
+- Customer onboarding
+
+**Workflow**
+
+Payhip → Make → Delivery
+
+[View Recipe](payhip-digital-delivery/README.md)
+
+---
+
+## More Recipes Coming Soon
+
+This library will gradually expand with additional automation workflows for digital product businesses.
+
+Planned examples include:
+
+- Customer tracking
+- Order management
+- Customer follow-up
+- Product access automation
+- Business notifications
+- Sales tracking
+
+## How to Use
+
+1. Choose an automation recipe.
+2. Open the recipe documentation.
+3. Review the required tools and workflow.
+4. Follow the setup steps.
+5. Adapt the workflow to your own business.
 
 ## Contributing
 
-Have an automation idea or workflow that could help digital product businesses?
+Have an automation workflow that could help other creators?
 
-See [CONTRIBUTING.md](../CONTRIBUTING.md).
+See [CONTRIBUTING.md](../CONTRIBUTING.md) for contribution guidelines.
+
+## Back to Library
+
+[← Back to Hermes Digital Product Automation Library](../README.md)
