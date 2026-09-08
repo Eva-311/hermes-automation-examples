@@ -107,6 +107,29 @@ It helps automate:
 - Customer workflow automation
 - Notion-based business tracking
 
+## Free Resources
+
+Practical automation resources for creators building digital product businesses.
+
+### 🚀 Payhip Digital Delivery
+
+Automate digital product delivery after a customer completes a purchase.
+
+[View the workflow →](recipes/payhip-digital-delivery/README.md)
+
+### 🔔 Telegram Order Notification
+
+Receive Telegram notifications when a new digital product order arrives.
+
+[View the workflow →](recipes/telegram-order-notification/README.md)
+
+### 📦 NomadOS Lite
+
+A free starter pack for building your first digital product automation workflow.
+
+[Get NomadOS Lite →](https://payhip.com/b/XhtcJ)
+
+
 ##  Technologies / Stack
 
 Hermes is built with:
