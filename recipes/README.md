@@ -84,3 +84,11 @@ See [CONTRIBUTING.md](../CONTRIBUTING.md) for contribution guidelines.
 ## Back to Library
 
 [← Back to Hermes Digital Product Automation Library](../README.md)
+
+---
+
+## Try the Free Starter Pack
+
+Want to start with a simple digital product automation workflow?
+
+[Get NomadOS Lite — Free Automation Starter Pack](https://payhip.com/b/XhtcJ)
