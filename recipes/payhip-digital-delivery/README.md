@@ -36,3 +36,11 @@ Payhip → Make → Customer Delivery
 [View workflow](../../workflows/payhip-digital-delivery/)
 
 [Back to Automation Recipes](../README.md)
+
+---
+
+## Try the Free Starter Pack
+
+Want to start with a simple digital product automation workflow?
+
+[Get NomadOS Lite — Free Automation Starter Pack](https://payhip.com/b/XhtcJ)
