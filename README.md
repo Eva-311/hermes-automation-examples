@@ -17,11 +17,32 @@ Automate:
 - Customer tracking
 - Business workflows
 
-Built with:
+# Hermes Automation Examples
 
-**Payhip + Make + Telegram + Notion**
+Practical automation workflows for digital product businesses.
 
+Build simple, maintainable workflows using:
+
+- Payhip
+- Make
+- Telegram
+- Notion
+- MailerLite
+
+Free automation recipes for creators, indie hackers, and solopreneurs.
 Designed for creators who want to automate digital product operations without building complex backend systems.
+
+## What You Can Automate
+
+Examples include:
+
+- Digital product delivery
+- Order notifications
+- Customer tracking
+- Webhook handling
+- Email follow-up
+
+Each recipe focuses on one practical problem instead of trying to automate everything at once.
 ---
 
 ## 🚀 Automation Library
@@ -333,6 +354,12 @@ Useful for creators who want instant order alerts without manually checking plat
 
 → [View workflow](telegram-order-notification/README.md)
 
+### 🛠️ Make Webhook Error Handling
+
+A practical guide to handling webhook errors, missing data, duplicate events, and failed requests in Make.com.
+
+[View the workflow](recipes/make-webhook-error-handling/README.md)
+
 
 ### Payhip Digital Delivery
 
@@ -341,6 +368,12 @@ Automatically deliver digital products after successful Payhip payments.
 Useful for selling templates, guides, courses and other digital products.
 
 → [View workflow](workflows/payhip-digital-delivery/README.md)
+
+### 🆓 NomadOS Lite
+
+A free starter pack for building your first digital product automation workflow.
+
+[Get NomadOS Lite](https://payhip.com/b/XhtcJ)
 ---
 
 ## Use Cases
@@ -417,5 +450,12 @@ Payhip link
 Community:https://www.indiehackers.com/Eva_NomadOS
 Indie Hackers
 
+## Start Here
+
+If you're new to digital product automation, start with the free resources above.
+
+For a ready-to-use starter workflow, you can also try:
+
+[NomadOS Lite — Free Automation Starter Pack](https://payhip.com/b/XhtcJ)
 Tutorial:https://dev.to/eva-nomados
 Dev.to
