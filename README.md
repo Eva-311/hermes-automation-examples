@@ -85,6 +85,16 @@ See how the automation workflows connect different tools and handle repetitive d
 
 [Watch the automation workflow demo](https://github.com/Eva-311/hermes-automation-examples)
 
+## Get Started
+
+Want to try the complete automation workflow?
+
+Start with NomadOS Lite:
+[Payhip Link]
+
+Free automation resources:
+[Recipe links]
+
 ## Why this project exists
 
 I started building these workflows because running a small digital product business involves a lot of repetitive work.
