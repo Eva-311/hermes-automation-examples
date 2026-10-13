@@ -37,7 +37,7 @@ See how a digital product workflow runs:
 
 ---
 
-![NomadOS Automation Examples](你的图片链接)
+![NomadOS Automation Examples](图片地址)
 
 ---
 
