@@ -1,11 +1,58 @@
-# Hermes Automation Examples
+# NomadOS
+
+## Digital Product OS for creators and indie hackers
+
+Build, automate, and manage your digital product business with a lightweight automation stack.
+
+NomadOS helps solo builders automate:
+
+- Product delivery
+- Customer management
+- Order tracking
+- Lead collection
+- Follow-up workflows
+
+Powered by:
+
+**Payhip + Telegram + Make + Notion**
+
 
 ![GitHub stars](https://img.shields.io/github/stars/Eva-311/hermes-automation-examples)
 ![GitHub license](https://img.shields.io/github/license/Eva-311/hermes-automation-examples)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Eva-311/hermes-automation-examples)
 ![Hermes Automation](assets/images/hermes-automation-banner.png)
 
-> Open-source automation workflows and resources for creators, indie hackers, and digital product businesses.
+## Demo
+
+This workflow connects payment, delivery, notifications, and customer records automatically.
+
+See how a digital product workflow runs:
+
+1. Customer purchases a product
+2. Payment triggers automation
+3. Telegram sends notification
+4. Customer receives delivery
+5. Order data is recorded
+
+
+---
+
+![NomadOS Automation Examples](你的图片链接)
+
+---
+
+## Why NomadOS?
+
+Selling a digital product usually requires managing many small tasks:
+
+- Delivering files after purchase
+- Tracking customers and orders
+- Sending notifications
+- Managing leads
+- Following up with potential buyers
+
+NomadOS turns these repetitive operations into simple automation workflows.
+
 
 
 ![Hermes Digital Product Automation Library](你的原Banner图片)
