@@ -37,7 +37,6 @@ See how a digital product workflow runs:
 
 ---
 
-![NomadOS Automation Examples](图片地址)
 
 ---
 
@@ -52,10 +51,6 @@ Selling a digital product usually requires managing many small tasks:
 - Following up with potential buyers
 
 NomadOS turns these repetitive operations into simple automation workflows.
-
-
-
-![Hermes Digital Product Automation Library](你的原Banner图片)
 
 Practical automation workflows for digital product businesses.
 
